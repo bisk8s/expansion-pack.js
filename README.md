@@ -10,7 +10,7 @@ Installation:
 ------------
 Just add the expansion-pack.js to your project and include it in your html.
 ```
-<script src=path/to/expansion-pack.js></script>
+<script src="path/to/expansion-pack.js"></script>
 ```
 
 How to use it:
