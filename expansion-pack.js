@@ -73,7 +73,7 @@ String.prototype.squeeze = function() {
 };
 
 String.prototype.removeSymbols = function() {
-	return this.replace(/['"\.,-\/#!?+$%\^&\*;:{}=\-_`~()@]/g,'');
+	return this.replace(/['"\.,-\/#!?+$%\^&\*;:<>{}=\-_`~()@]/g,'');
 };
 
 String.prototype.truncate = function(size){
