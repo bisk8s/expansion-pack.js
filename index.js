@@ -1,3 +1,3 @@
-require('./lib/array');
-require('./lib/number');
-require('./lib/string');
+var extendArray = require('./lib/array');
+var extendNumber = require('./lib/number');
+var extendString = require('./lib/string');

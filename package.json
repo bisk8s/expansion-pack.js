@@ -16,7 +16,5 @@
     "url": "https://github.com/bisk8s/expansion-pack.js/issues"
   },
   "homepage": "https://github.com/bisk8s/expansion-pack.js#readme",
-  "dependencies": {
-    "eslint": "^5.8.0"
-  }
+  "dependencies": {}
 }
