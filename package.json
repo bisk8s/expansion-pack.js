@@ -2,7 +2,7 @@
   "name": "expansion-pack",
   "version": "1.0.0",
   "description": "Adding some useful (and others not so useful) functions to javascript's objects just for fun.",
-  "main": "expansion-pack.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
