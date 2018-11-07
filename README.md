@@ -8,11 +8,8 @@ It started as a challenge to implement some functions to the javascript Array an
 
 Installation:
 ------------
-Just add the expansion-pack.js to your project and include it in your html.
-```
-<script src="path/to/expansion-pack.js"></script>
-```
+[WIP]
 
 How to use it:
 ------------
-_This section is under construction, come back later._
+[WIP]

@@ -1,0 +1,22 @@
+{
+  "name": "expansion-pack",
+  "version": "1.0.0",
+  "description": "Adding some useful (and others not so useful) functions to javascript's objects just for fun.",
+  "main": "expansion-pack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bisk8s/expansion-pack.js.git"
+  },
+  "author": "Guilherme Lucena <lucena_guilherme@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bisk8s/expansion-pack.js/issues"
+  },
+  "homepage": "https://github.com/bisk8s/expansion-pack.js#readme",
+  "dependencies": {
+    "eslint": "^5.8.0"
+  }
+}
