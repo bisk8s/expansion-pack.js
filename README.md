@@ -15,7 +15,7 @@ npm install expansion-pack
 Some ways to use it:
 ------------
 ```javascript
-var ExpansionPack = require('./index');;
+var ExpansionPack = require("expansion-pack");
 ExpansionPack.extendAll();
 
 // array functions
