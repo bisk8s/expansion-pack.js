@@ -8,8 +8,32 @@ It started as a challenge to implement some functions to the javascript Array an
 
 Installation:
 ------------
-[WIP]
+```
+npm install expansion-pack
+```
 
-How to use it:
+Some ways to use it:
 ------------
-[WIP]
+```javascript
+// array functions
+array.bubbleSort();
+array.shuffle();
+array.sum();
+array.getRandom();
+array.remove();
+array.clone();
+array.unique();
+
+// number functions
+number.formatMoney();
+number.factorial();
+
+// string functions
+string.squeeze();
+string.removeSymbols();
+string.truncate();
+string.anagram();
+string.reverse();
+string.alphabeticalOrder();
+string.removeDiacritics();
+```

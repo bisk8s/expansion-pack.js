@@ -1,3 +1,4 @@
-var extendArray = require('./lib/array');
-var extendNumber = require('./lib/number');
-var extendString = require('./lib/string');
+exports.extendArray = require('./lib/array');
+exports.extendNumber = require('./lib/number');
+exports.extendString = require('./lib/string');
+
